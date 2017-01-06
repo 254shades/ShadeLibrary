@@ -1,5 +1,532 @@
-[{
-"NumericValue": 1,
-"Name": "Test Number 1",
-"NamedBy" : "254Shades"
-}]
+[
+  {
+    "Name": "Very Nearly Black",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 1
+  },
+  {
+    "Name": "Almost Very Nearly Black",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 2
+  },
+  {
+    "Name": "Nearly Black",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 3
+  },
+  {
+    "Name": "Really Near to Black, but Not Quite Black",
+    "NamedBy": "ValeriaGlow",
+    "NumericValue": 4
+  },
+  {
+    "Name": "Quite Black",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 5
+  },
+  {
+    "Name": "Not a number, McGoohan Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 6
+  },
+  {
+    "Name": "Starless night",
+    "NamedBy": "missadissa1",
+    "NumericValue": 7
+  },
+  {
+    "Name": "Slightly darker than very very near black",
+    "NamedBy": "TiffanyBlews27",
+    "NumericValue": 8
+  },
+  {
+    "Name": "Very very near black",
+    "NamedBy": "TiffanyBlews27",
+    "NumericValue": 9
+  },
+  {
+    "Name": "Still probably black",
+    "NamedBy": "Silly_Little_17",
+    "NumericValue": 10
+  },
+  {
+    "Name": "Grey Fullbuster",
+    "NamedBy": "paddyro1",
+    "NumericValue": 11
+  },
+  {
+    "Name": "Melting Ice Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 12
+  },
+  {
+    "Name": "Carly is the Greytest Grey",
+    "NamedBy": "carlycorvette",
+    "NumericValue": 13
+  },
+  {
+    "Name": "Sweatpants Grey",
+    "NamedBy": "paddyro1",
+    "NumericValue": 14
+  },
+  {
+    "Name": "olifletcherolifletcherolifletcher",
+    "NamedBy": "oligeorgef",
+    "NumericValue": 15
+  },
+  {
+    "Name": "Doug",
+    "NamedBy": "Clarfa_JW",
+    "NumericValue": 17
+  },
+  {
+    "Name": "Grimm Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 18
+  },
+  {
+    "Name": "Devil's Soul Grey",
+    "NamedBy": "MrJDucky",
+    "NumericValue": 22
+  },
+  {
+    "Name": "Jay's Feather Grey",
+    "NamedBy": "lionolover",
+    "NumericValue": 24
+  },
+  {
+    "Name": "Onesie Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 28
+  },
+  {
+    "Name": "David Grey",
+    "NamedBy": "dsw1020",
+    "NumericValue": 29
+  },
+  {
+    "Name": "Joe's Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 30
+  },
+  {
+    "Name": "Perfect Vision Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 32
+  },
+  {
+    "Name": "Profoundly Dark Grey",
+    "NamedBy": "ProfoundWorks",
+    "NumericValue": 36
+  },
+  {
+    "Name": "The Ultimate Grey of Life, the Universe and Everything",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 42
+  },
+  {
+    "Name": "Two Bee",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 43
+  },
+  {
+    "Name": "Not Two Bee",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 44
+  },
+  {
+    "Name": "Twee Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 46
+  },
+  {
+    "Name": "Fiftieth Shade of Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 50
+  },
+  {
+    "Name": "Default Visual Studio MVC Template Text Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 51
+  },
+  {
+    "Name": "Jet",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 52
+  },
+  {
+    "Name": "Yukon Grey",
+    "NamedBy": "dsw1020",
+    "NumericValue": 53
+  },
+  {
+    "Name": "Grey Grey",
+    "NamedBy": "otterpop01",
+    "NumericValue": 55
+  },
+  {
+    "Name": "John Major Grey",
+    "NamedBy": "mrssavageangel",
+    "NumericValue": 56
+  },
+  {
+    "Name": "Charred Graphite Grey",
+    "NamedBy": "lionolover",
+    "NumericValue": 57
+  },
+  {
+    "Name": "Fine Chalk Grey",
+    "NamedBy": "glitturs",
+    "NumericValue": 59
+  },
+  {
+    "Name": "Grey Blue",
+    "NamedBy": "katiesalmon3",
+    "NumericValue": 60
+  },
+  {
+    "Name": "Really grey but not too grey you know what i mean yeah?",
+    "NamedBy": "craftboy47",
+    "NumericValue": 67
+  },
+  {
+    "Name": "Pavement in the Rain Grey",
+    "NamedBy": "kendra_pino",
+    "NumericValue": 68
+  },
+  {
+    "Name": "Dirty Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 69
+  },
+  {
+    "Name": "Overtly facetious Grey",
+    "NamedBy": "martinthebeardy",
+    "NumericValue": 76
+  },
+  {
+    "Name": "Profound Grey",
+    "NamedBy": "ProfoundWorks",
+    "NumericValue": 79
+  },
+  {
+    "Name": "Sorrowful Grey",
+    "NamedBy": "chayloop",
+    "NumericValue": 81
+  },
+  {
+    "Name": "Davy's Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 85
+  },
+  {
+    "Name": "Steven",
+    "NamedBy": "DerijckeGilles",
+    "NumericValue": 86
+  },
+  {
+    "Name": "Grey Area Grey",
+    "NamedBy": "mrssavageangel",
+    "NumericValue": 90
+  },
+  {
+    "Name": "Blandest Grey",
+    "NamedBy": "RyanBingham64",
+    "NumericValue": 91
+  },
+  {
+    "Name": "Panda's Friday T-Shirt Grey",
+    "NamedBy": "MangopearUK",
+    "NumericValue": 94
+  },
+  {
+    "Name": "Gandalf the Grey Grey",
+    "NamedBy": "martinthebeardy",
+    "NumericValue": 95
+  },
+  {
+    "Name": "Just Kinda Greyish",
+    "NamedBy": "jezmck",
+    "NumericValue": 100
+  },
+  {
+    "Name": "Dalmation Spot Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 101
+  },
+  {
+    "Name": "Beelzebub's Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 102
+  },
+  {
+    "Name": "Dim Gray",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 105
+  },
+  {
+    "Name": "Emma is the Greytest Grey",
+    "NamedBy": "ermasure",
+    "NumericValue": 111
+  },
+  {
+    "Name": "Troll Grey",
+    "NamedBy": "SparklingRose23",
+    "NumericValue": 117
+  },
+  {
+    "Name": "The End of Time",
+    "NamedBy": "Troylershipper9",
+    "NumericValue": 118
+  },
+  {
+    "Name": "Idunno Grey",
+    "NamedBy": "CraCrayKitty",
+    "NumericValue": 119
+  },
+  {
+    "Name": "Default Visual Studio MVC Template Button Border Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 120
+  },
+  {
+    "Name": "Wheeljack Grey",
+    "NamedBy": "GangDeGeeks",
+    "NumericValue": 121
+  },
+  {
+    "Name": "Grey is the Way",
+    "NamedBy": "katd913",
+    "NumericValue": 126
+  },
+  {
+    "Name": "Stormy Night Grey",
+    "NamedBy": "mkbelieve3",
+    "NumericValue": 127
+  },
+  {
+    "Name": "Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 128
+  },
+  {
+    "Name": "Mysterious Grey",
+    "NamedBy": "DEBARATIDAS15",
+    "NumericValue": 137
+  },
+  {
+    "Name": "Spanish Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 152
+  },
+  {
+    "Name": "Default Visual Studio MVC Template List Item Anchor Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 153
+  },
+  {
+    "Name": "Seal Grey",
+    "NamedBy": "Genderqueerest",
+    "NumericValue": 164
+  },
+  {
+    "Name": "Rebecca Black",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 166
+  },
+  {
+    "Name": "Dark Medium Gray",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 169
+  },
+  {
+    "Name": "Uncool Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 171
+  },
+  {
+    "Name": "Cool Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 172
+  },
+  {
+    "Name": "Soft storm Grey",
+    "NamedBy": "katiesalmon3",
+    "NumericValue": 174
+  },
+  {
+    "Name": "Mithril Grey",
+    "NamedBy": "Osaiike",
+    "NumericValue": 175
+  },
+  {
+    "Name": "Distinguished Man's Temples Grey",
+    "NamedBy": "mrssavageangel",
+    "NumericValue": 180
+  },
+  {
+    "Name": "Wiley Grey",
+    "NamedBy": "dsw1020",
+    "NumericValue": 184
+  },
+  {
+    "Name": "Big Dog Grey",
+    "NamedBy": "dsw1020",
+    "NumericValue": 187
+  },
+  {
+    "Name": "Twiki Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 189
+  },
+  {
+    "Name": "Medium Gray",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 190
+  },
+  {
+    "Name": "Silver",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 192
+  },
+  {
+    "Name": "Default Visual Studio MVC Template Site Title Text Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 200
+  },
+  {
+    "Name": "Morning Fog Grey",
+    "NamedBy": "ReeBearChan",
+    "NumericValue": 201
+  },
+  {
+    "Name": "Notice Me Llama Grey",
+    "NamedBy": "otterpop01",
+    "NumericValue": 202
+  },
+  {
+    "Name": "Dumbledore's Beard",
+    "NamedBy": "danllambton",
+    "NumericValue": 203
+  },
+  {
+    "Name": "Do You See Grey",
+    "NamedBy": "martinthebeardy",
+    "NumericValue": 204
+  },
+  {
+    "Name": "Crudely Drawn Cock, Definitely Seedy Grey",
+    "NamedBy": "martinthebeardy",
+    "NumericValue": 205
+  },
+  {
+    "Name": "See the Sea Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 206
+  },
+  {
+    "Name": "Bluish Grey",
+    "NamedBy": "otterpop01",
+    "NumericValue": 208
+  },
+  {
+    "Name": "Light Gray",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 211
+  },
+  {
+    "Name": "Gainsboro",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 220
+  },
+  {
+    "Name": "DeLorean Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 222
+  },
+  {
+    "Name": "Donkey Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 224
+  },
+  {
+    "Name": "Default Visual Studio MVC Template Background Grey",
+    "NamedBy": "254ShadesOfGrey",
+    "NumericValue": 226
+  },
+  {
+    "Name": "Light Grey Closer to White Than Middle Grey",
+    "NamedBy": "ditta_mary",
+    "NumericValue": 232
+  },
+  {
+    "Name": "Earl Grey",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 234
+  },
+  {
+    "Name": "Light but dark Grey",
+    "NamedBy": "thejackwheeler",
+    "NumericValue": 236
+  },
+  {
+    "Name": "Ed, Edd n Eddy Grey",
+    "NamedBy": "martinthebeardy",
+    "NumericValue": 237
+  },
+  {
+    "Name": "Grey-aay",
+    "NamedBy": "cam0899",
+    "NumericValue": 238
+  },
+  {
+    "Name": "WhiteSmoke",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 245
+  },
+  {
+    "Name": "Sperm Grey",
+    "NamedBy": "Siluroth",
+    "NumericValue": 246
+  },
+  {
+    "Name": "How the hell is this Grey? It looks White!",
+    "NamedBy": "CraCrayKitty",
+    "NumericValue": 247
+  },
+  {
+    "Name": "The Silver Fox Grey",
+    "NamedBy": "mrssavageangel",
+    "NumericValue": 248
+  },
+  {
+    "Name": "Little white lie",
+    "NamedBy": "evelie",
+    "NumericValue": 249
+  },
+  {
+    "Name": "Fafafar too close to white but just not quite",
+    "NamedBy": "ReeBearChan",
+    "NumericValue": 250
+  },
+  {
+    "Name": "Snow Grey",
+    "NamedBy": "HeyyItzHarley",
+    "NumericValue": 251
+  },
+  {
+    "Name": "Nearly White",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 252
+  },
+  {
+    "Name": "Almost Very Nearly White",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 253
+  },
+  {
+    "Name": "Very Nearly White",
+    "NamedBy": "JoeGlombek",
+    "NumericValue": 254
+  }
+]
