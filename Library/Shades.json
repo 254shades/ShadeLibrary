@@ -528,5 +528,11 @@
     "Name": "Very Nearly White",
     "NamedBy": "JoeGlombek",
     "NumericValue": 254
+  },
+  
+  {
+    "Name": "Test Shade",
+    "NamedBy": "Benjimawoo",
+    "NumericValue": 239
   }
 ]
